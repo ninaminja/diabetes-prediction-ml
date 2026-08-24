@@ -48,7 +48,7 @@ Model postiže accuracy od ~77% na test skupu. Detaljna diskusija o uticaju regu
 
 ```bash
 pip install -r requirements.txt
-jupyter notebook diabetes_analysis.ipynb
+jupyter notebook diabetes3.ipynb
 ```
 
 ## Korišćene biblioteke
